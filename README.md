@@ -13,6 +13,10 @@ In each step a set of instructions are followed which are set in Udacity's proje
 
 **Step 1 :**
 
+![Figure_!](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/AAAA)
+
+#
+
 
 * Do you see any benefits in camera-lidar fusion compared to lidar-only tracking (in theory and in your concrete results)?
 * Which challenges will a sensor fusion system face in real-life scenarios? Did you see any of these challenges in the project?
