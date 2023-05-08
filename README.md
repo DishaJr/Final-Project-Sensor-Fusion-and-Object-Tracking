@@ -30,7 +30,7 @@ In each step a set of instructions are followed which are set in Udacity's proje
 
 ![Figure_7](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/Screenshot%20from%202023-05-07%2015-41-22.png)
 ![Figure_8](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/Screenshot%20from%202023-05-07%2015-41-43.png)
-![Figure_9](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/Screenshot%20from%202023-05-07%2015-42-49.png)
+![Figure_9](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/BBBBBBB)
 
 #
 
