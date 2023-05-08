@@ -34,8 +34,7 @@ In each step a set of instructions are followed which are set in Udacity's proje
 
 #
 
-
-* Do you see any benefits in camera-lidar fusion compared to lidar-only tracking (in theory and in your concrete results)?
+## **Do you see any benefits in camera-lidar fusion compared to lidar-only tracking (in theory and in your concrete results)?**
 
 There are several benefits to using camera-lidar fusion compared to lidar-only tracking. Camera sensors provide high-resolution images that can help in detecting and tracking objects with greater accuracy. Lidar sensors, on the other hand, provide accurate distance measurements but with lower resolution. By combining the two, we can get the best of both worlds and improve the overall accuracy of object tracking.
 
@@ -47,7 +46,7 @@ Overall, camera-lidar fusion has the potential to improve the accuracy and robus
 
 #
 
-* Which challenges will a sensor fusion system face in real-life scenarios? Did you see any of these challenges in the project?
+## **Which challenges will a sensor fusion system face in real-life scenarios? Did you see any of these challenges in the project?**
 
 Sensor fusion systems can face several challenges in real-life scenarios :
   * Sensor Calibration
@@ -58,7 +57,7 @@ Sensor fusion systems can face several challenges in real-life scenarios :
 
 #
 
-* Can you think of ways to improve your tracking results in the future?
+## **Can you think of ways to improve your tracking results in the future?**
 
   * Improved Sensor Calibration
   * Advanced Data Association Techniques
