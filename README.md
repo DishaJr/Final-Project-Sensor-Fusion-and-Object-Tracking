@@ -36,7 +36,7 @@ In each step a set of instructions are followed which are set in Udacity's proje
 
 ## **Final video :**
 
-![Figure_9](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/ezgif.com-video-to-gif(2).gif)
+![Figure_9](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/ezgif.com-video-to-gif(4).gif)
 
 #
 
