@@ -13,6 +13,18 @@ In each step a set of instructions are followed which are set in Udacity's proje
 
 **Step 1 :**
 
+![Figure_1](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/AAAA)
+
+**Step 2 :**
+
+![Figure_2](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/Screenshot%20from%202023-05-07%2011-20-16.png)
+
+**Step 3 :**
+
+![Figure_!](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/AAAA)
+
+**Step 4 :**
+
 ![Figure_!](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/AAAA)
 
 #
