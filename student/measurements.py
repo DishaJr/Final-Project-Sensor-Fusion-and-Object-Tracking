@@ -139,9 +139,9 @@ class Sensor:
         # TODO Step 4: remove restriction to lidar in order to include camera as well
         ############
         
-        if self.name == 'lidar':
-            meas = Measurement(num_frame, z, self)
-            meas_list.append(meas)
+
+        meas = Measurement(num_frame, z, self)
+        meas_list.append(meas)
         return meas_list
         
         ############
@@ -156,6 +156,7 @@ class Measurement:
     def __init__(self, num_frame, z, sensor):
         # create measurement object
         self.t = (num_frame - 1) * params.dt # time
+        self.sensor = sensor
         if sensor.name == 'lidar':
             sigma_lidar_x = params.sigma_lidar_x # load params
             sigma_lidar_y = params.sigma_lidar_y
