@@ -34,6 +34,12 @@ In each step a set of instructions are followed which are set in Udacity's proje
 
 #
 
+## **Final video :**
+
+![Figure_9](https://github.com/DishaJr/Final-Project-Sensor-Fusion-and-Object-Tracking/blob/main/ezgif.com-video-to-gif(2).gif)
+
+#
+
 ## **Do you see any benefits in camera-lidar fusion compared to lidar-only tracking (in theory and in your concrete results)?**
 
 There are several benefits to using camera-lidar fusion compared to lidar-only tracking. Camera sensors provide high-resolution images that can help in detecting and tracking objects with greater accuracy. Lidar sensors, on the other hand, provide accurate distance measurements but with lower resolution. By combining the two, we can get the best of both worlds and improve the overall accuracy of object tracking.
